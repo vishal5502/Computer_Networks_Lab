@@ -1,0 +1,9 @@
+Number of packets: 7600
+Number of source IPs: 81
+Number of destination IPs: 63
+Number of protocols used: 3
+
+Packets per protocol:
+TCP: 4521
+UDP: 2663
+OTHER: 1
